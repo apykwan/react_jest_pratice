@@ -1,5 +1,4 @@
 import userEvent from "@testing-library/user-event";
-import { text } from "express";
 
 import { render, screen } from "../../../test-utils/testing-library-utils";
 import Options from "../Options";
